@@ -1,7 +1,6 @@
 {
   "name": "next-forge",
   "version": "2.0.0",
-  "packageManager": "pnpm@10.12.4",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
